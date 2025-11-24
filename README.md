@@ -1,0 +1,1 @@
+Este proyecto fue un buen reto para mí. Necesitaba descubrir cómo mostrar la Pokédex al cliente. Decidí usar HTML y compilé una Pokédex para el usuario. También guardé la información en JSON. Solo necesitas ejecutar el archivo pokedex.py y listo.
